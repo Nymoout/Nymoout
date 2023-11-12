@@ -29,5 +29,3 @@ Así que, ¿listo para una aventura en el mundo de las llaves primarias y los pu
 📞 Discord: Nymoout
 
 [![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko)](https://github.com/nymoout/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
-
-[![Nymout's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=nymoout.readme.visitor-badge)](https://github.com/Nymoout/) 
