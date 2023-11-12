@@ -13,15 +13,12 @@ Convierto líneas de código en poesía, y los errores en oportunidades para un 
 
 Así que, ¿listo para una aventura en el mundo de las llaves primarias y los punteros? ¡Vamos a codificar el futuro! 🚀🎮
 
-Tecnologías:
 💻 Desarrollador Java y más... - Me sumerjo en el mundo del código, especializado en Java y dispuesto a conquistar cualquier tecnología que se cruce en mi camino.
 🌐 Full Stack Developer: HTML5, C#, C++, React. Convierto ideas en experiencias interactivas y funcionales.
 
-Proyectos Destacados:
 🕹️ Desarrollador en Vexillum studio: Convirtiendo ideas en bits y bytes. ¡Echa un vistazo!
 🌐 Sitio Web Personal: Donde las líneas de código se encuentran con la creatividad. ¡Descúbrelo aquí!
   
-Habilidades y Aprendizaje:
 🚀 Autodidacta Apasionado: Explorando continuamente nuevos horizontes de conocimiento, porque cada línea de código es una oportunidad de aprendizaje.
 📖 Devorador de Documentación: Navegando por manuales y documentación como un cazador de tesoros digitales. ¡Cuanto más aprendo, más poderoso me vuelvo!
 🔍 Siempre en Beta: Mi mentalidad es como un software en constante actualización, siempre buscando mejorar y añadir nuevas funciones.
