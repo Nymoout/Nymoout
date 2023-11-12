@@ -1,31 +1,31 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-👋 ¡Hola, soy Andres, también conocido como (Nymoout)! 🚀
+👋 Hello, I'm Andres, also known as (Nymoout)! 🚀
 
-Desarrollador de día, soñador de noche. En mi mundo, las variables son como amigos: ¡siempre cambiantes! 💻✨ Cuando no estoy lidiando con bugs, me encuentro navegando por el universo infinito de Stack Overflow.
+Developer by day, dreamer by night. In my world, variables are like friends: always changing! 💻✨ When I'm not dealing with bugs, you can find me navigating the infinite universe of Stack Overflow.
 
-Amante del café ☕ y de las llaves foráneas en las bases de datos. ¡Porque incluso las relaciones en el código pueden ser complicadas, pero siempre encuentran la manera de unirse!
+Coffee lover ☕ and a fan of foreign keys in databases. Because even relationships in code can be complicated, but they always find a way to come together!
 
-Noctámbulo por elección, competidor en el juego de la vida. ¿Java, C#, o C++? ¡Yo elijo todas las anteriores! 💡 Cuando no estoy codificando, me encuentro explorando el vasto mundo de los memes geek y las referencias de películas sci-fi.
+Night owl by choice, a competitor in the game of life. Java, C#, or C++? I choose all of the above! 💡 When I'm not coding, I'm exploring the vast world of geek memes and sci-fi movie references.
 
-Convierto líneas de código en poesía, y los errores en oportunidades para un mejor refactor. 🌌 ¡Únete a mi búsqueda de la perfección digital y descubre el lado más geek del desarrollo!
+I turn lines of code into poetry, and errors into opportunities for better refactoring. 🌌 Join me on my quest for digital perfection and discover the geekier side of development!
 
-Así que, ¿listo para una aventura en el mundo de las llaves primarias y los punteros? ¡Vamos a codificar el futuro! 🚀🎮
+So, ready for an adventure in the world of primary keys and pointers? Let's code the future! 🚀🎮
 
-💻 Desarrollador Java y más... - Me sumerjo en el mundo del código, especializado en Java y dispuesto a conquistar cualquier tecnología que se cruce en mi camino.
-🌐 Full Stack Developer: HTML5, C#, C++, React. Convierto ideas en experiencias interactivas y funcionales.
+💻 Java Developer and more... - I dive into the code world, specializing in Java and ready to conquer any technology that crosses my path.
+🌐 Full Stack Developer: HTML5, C#, C++, React. Turning ideas into interactive and functional experiences.
 
-🕹️ Desarrollador en Vexillum studio: Convirtiendo ideas en bits y bytes. ¡Echa un vistazo!
-🌐 Sitio Web Personal: Donde las líneas de código se encuentran con la creatividad. ¡Descúbrelo aquí!
-  
-🚀 Autodidacta Apasionado: Explorando continuamente nuevos horizontes de conocimiento, porque cada línea de código es una oportunidad de aprendizaje.
-📖 Devorador de Documentación: Navegando por manuales y documentación como un cazador de tesoros digitales. ¡Cuanto más aprendo, más poderoso me vuelvo!
-🔍 Siempre en Beta: Mi mentalidad es como un software en constante actualización, siempre buscando mejorar y añadir nuevas funciones.
-💡 Solucionador Creativo de Problemas: Transformando desafíos en oportunidades para aprender y crecer. ¡No hay problema demasiado grande para un buen programador!
-🌱 Crecimiento Exponencial: Mi curva de aprendizaje es más empinada que un gráfico exponencial. ¡Cada día es una nueva oportunidad para mejorar!
+🕹️ Developer at Vexillum Studio: Turning ideas into bits and bytes. Check it out!
+🌐 Personal Website: Where lines of code meet creativity. Discover it here!
 
-📫 E-mail contact: Nymoout@gmail.com
+🚀 Passionate Self-Learner: Continuously exploring new knowledge horizons because every line of code is a learning opportunity.
+📖 Documentation Devourer: Navigating manuals and documentation like a digital treasure hunter. The more I learn, the more powerful I become!
+🔍 Always in Beta: My mindset is like constantly updating software, always looking to improve and add new features.
+💡 Creative Problem Solver: Transforming challenges into opportunities to learn and grow. No problem is too big for a good programmer!
+🌱 Exponential Growth: My learning curve is steeper than an exponential graph. Every day is a new opportunity to improve!
+
+📫 Email contact: Nymoout@gmail.com
 📞 Discord: Nymoout
 
 [![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko)](https://github.com/nymoout/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
