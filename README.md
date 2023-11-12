@@ -30,4 +30,4 @@ Así que, ¿listo para una aventura en el mundo de las llaves primarias y los pu
 
 [![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko)](https://github.com/nymoout/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
 
-[![xIsm4's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Nymoout.readme.visitor-badge)](https://github.com/Nymoout/) 
+[![Nymout's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=nymoout.readme.visitor-badge)](https://github.com/Nymoout/) 
