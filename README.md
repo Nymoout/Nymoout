@@ -24,3 +24,10 @@ Así que, ¿listo para una aventura en el mundo de las llaves primarias y los pu
 🔍 Siempre en Beta: Mi mentalidad es como un software en constante actualización, siempre buscando mejorar y añadir nuevas funciones.
 💡 Solucionador Creativo de Problemas: Transformando desafíos en oportunidades para aprender y crecer. ¡No hay problema demasiado grande para un buen programador!
 🌱 Crecimiento Exponencial: Mi curva de aprendizaje es más empinada que un gráfico exponencial. ¡Cada día es una nueva oportunidad para mejorar!
+
+📫 E-mail contact: Nymoout@gmail.com
+📞 Discord: Nymoout
+
+[![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko)](https://github.com/nymoout/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
+
+[![xIsm4's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Nymoout.readme.visitor-badge)](https://github.com/Nymoout/) 
