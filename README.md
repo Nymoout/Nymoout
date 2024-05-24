@@ -7,7 +7,7 @@ Developer by day, dreamer by night. In my world, variables are like friends: alw
 
 Coffee lover ☕ and a fan of foreign keys in databases. Because even relationships in code can be complicated, but they always find a way to come together!
 
-Night owl by choice, a competitor in the game of life. Java, C#, or C++? I choose all of the above! 💡 When I'm not coding, I'm exploring the vast world of geek memes and sci-fi movie references.
+Night owl by choice, a competitor in the game of life. Java, Kotlin, C#, or C++? I choose all of the above! 💡 When I'm not coding, I'm exploring the vast world of geek memes and sci-fi movie references.
 
 I turn lines of code into poetry, and errors into opportunities for better refactoring. 🌌 Join me on my quest for digital perfection and discover the geekier side of development!
 
