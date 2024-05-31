@@ -14,7 +14,7 @@ I turn lines of code into poetry, and errors into opportunities for better refac
 So, ready for an adventure in the world of primary keys and pointers? Let's code the future! 🚀🎮
 
 💻 Java Developer and more... - I dive into the code world, specializing in Java and ready to conquer any technology that crosses my path.
-🌐 Full Stack Developer: HTML5, C#, C++, React. Turning ideas into interactive and functional experiences.
+🌐 Full Stack Developer: Java, Go, HTML5, C#, C++, React. Turning ideas into interactive and functional experiences.
 
 🕹️ Developer at Vexillum Studio: Turning ideas into bits and bytes. Check it out!
 🌐 Personal Website: Where lines of code meet creativity. Discover it here!
