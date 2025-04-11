@@ -46,5 +46,5 @@ When I'm not solving bugs, I'm exploring new technologies, hunting answers in St
 
 ---
 
-[![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko)](https://github.com/nymoout/) 
+[![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko&count_private=true)](https://github.com/nymoout/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
