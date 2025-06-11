@@ -42,7 +42,7 @@ When I'm not solving bugs, I'm exploring new technologies, hunting answers in St
 ## 📫 Let’s Connect!
 - 📧 Email: **Nymoout@gmail.com**
 - 💬 Discord: **Nymoout**
-- 🌐 [Personal Website](#) *(coming soon?)*
+- 🌐 [Personal Website](#) *(soon)*
 
 ---
 
