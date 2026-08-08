@@ -15,11 +15,11 @@ Focused on distributed systems, CI/CD, and production observability.
 
 ## What I work with
 
-**Languages** Kotlin, Java, TypeScript, Go
-**Backend** Spring Boot, REST APIs, microservices, jOOQ
-**Infrastructure** Kubernetes, Docker, Helm, GitHub Actions, Linux
-**Data** PostgreSQL, MySQL, Kafka, Redis
-**Observability** Prometheus, Grafana, Loki, Sentry
+- **Languages** — Kotlin, Java, TypeScript, Go
+- **Backend** — Spring Boot, REST APIs, microservices, jOOQ
+- **Infrastructure** — Kubernetes, Docker, Helm, GitHub Actions, Linux
+- **Data** — PostgreSQL, MySQL, Kafka, Redis
+- **Observability** — Prometheus, Grafana, Loki, Sentry
 
 ## Currently
 
