@@ -1,4 +1,8 @@
-<a href="#"><img src="contributions.svg"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nymoout/Nymoout/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nymoout/Nymoout/output/snake-light.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Nymoout/Nymoout/output/snake-light.svg">
+</picture>
 
 # Andres Macchi
 
