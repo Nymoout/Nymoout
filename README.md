@@ -1,50 +1,28 @@
 <a href="#"><img src="contributions.svg"></a>
 
-# 👋 Hello, I'm Andres (aka Nymoout) 🚀
+# Andres — Nymoout
 
-**Full Stack Developer | Java & Kotlin Enthusiast | Self-Taught & Passionate**
+**Senior Backend Engineer · Java / Kotlin · Kubernetes** — Bogotá, Colombia (UTC-5)
 
-Developer by day, dreamer by night. In my world, variables are like friends — always evolving! 💻✨  
-When I'm not solving bugs, I'm exploring new technologies, hunting answers in Stack Overflow, or brewing the perfect coffee ☕.
+8+ years building backend services and the infrastructure that runs them.
+Focused on distributed systems, CI/CD, and production observability.
 
----
+## What I work with
 
-## 🧠 About Me
-- 🎓 Self-taught developer with over 4 years of experience in backend and microservices.
-- 🌐 I work with Java, Kotlin, Go, and React — and always ready to pick up a new tech stack.
-- 🛠️ Experienced with Docker, Kubernetes, and CI/CD pipelines.
-- 📚 Lifelong learner with a mindset that’s *always in beta*.
-- 👨‍💻 Currently open to new opportunities and collaborations.
+**Languages** Kotlin, Java, TypeScript, Go
+**Backend** Spring Boot, REST APIs, microservices, jOOQ
+**Infrastructure** Kubernetes, Docker, Helm, GitHub Actions, Linux
+**Data** PostgreSQL, MySQL, Kafka, Redis
+**Observability** Prometheus, Grafana, Loki, Sentry
 
----
+## Currently
 
-## 🔧 Technologies I Use
+- Multi-tenant CI infrastructure on Kubernetes: isolated runners, deploy safety, backup automation
+- Metric-driven alerting pipelines — Prometheus, Loki, Sentry into incident routing
+- Internal developer tooling: MCP servers, workflow automation
 
-**Languages:** Java, Kotlin, Go, C#, C++, JavaScript  
-**Frameworks & Tools:** React, Spring Boot, Docker, Kubernetes, Git  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Others:** REST APIs, Agile, Microservices, Linux, GitHub Actions  
+## Contact
 
----
+- Email — Nymoout@gmail.com
 
-## 🎯 Current Projects
-- 🧩 Minecraft Modding & Launcher development (personal learning + fun side project)
-- 🧪 Learning more about backend performance and distributed systems.
-- 🔧 Building utilities to automate repetitive tasks and system configs.
-
----
-
-## 🧩 Fun Facts
-- Coffee keeps my code running. ☕
-
----
-
-## 📫 Let’s Connect!
-- 📧 Email: **Nymoout@gmail.com**
-- 💬 Discord: **Nymoout**
-- 🌐 [Personal Website](#) *(soon)*
-
----
-
-[![Nymout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymoout&show_icons=true&theme=merko&count_private=true)](https://github.com/nymoout/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nymoout&layout=compact&theme=tokyonight)](https://github.com/Nymoout/)
+Open to backend and platform engineering roles.
